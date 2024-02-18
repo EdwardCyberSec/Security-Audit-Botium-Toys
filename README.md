@@ -19,3 +19,4 @@ Subsequently, I conducted an internal audit to assess controls and verify compli
 
 <h2>Scope, goals, and risk assessment report</h2>
 
+![Screenshot_17-2-2024_222114_docs google com](https://github.com/EdwardCyberSec/Security-Audit-Botium-Toys/assets/160364234/44faccb4-dc4b-428f-9f1e-ee073aed2f00)
