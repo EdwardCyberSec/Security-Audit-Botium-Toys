@@ -20,3 +20,14 @@ Subsequently, I conducted an internal audit to assess controls and verify compli
 
 <h2>Compliance Checklist</h2>
 
+![image](https://github.com/EdwardCyberSec/Security-Audit-Botium-Toys/assets/160364234/c684fdb0-ef52-426f-88dc-f92bab160f70)
+
+
+![image](https://github.com/EdwardCyberSec/Security-Audit-Botium-Toys/assets/160364234/b8e8d2e2-960c-4118-a75a-e339f3f1d72e)
+
+
+<h2>Recommendations</h2>
+
+- Recommendations (optional): In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
+
+*Being in compliance with GDPR and NIST CSF, would allow for E.U. customer’s data to be secured and that data is properly classified and inventoried. Adding encryption would help in securing data for customers, along with adding IDS to help with any anomalous traffic. Having proper following of Least Privilege would ensure that only authorized personnel have access to specific user data. Along with having a proper disaster recovery plan so that all data is restored to resume normal business operations.*
