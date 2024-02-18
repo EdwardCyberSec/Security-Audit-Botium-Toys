@@ -18,3 +18,5 @@ Subsequently, I conducted an internal audit to assess controls and verify compli
 - <b>Botium Toys: Scope, goals, and risk assessment report<b> 
 - <b>Link to report<b>: https://github.com/EdwardCyberSec/Security-Audit-Botium-Toys/tree/main/Images
 
+<h2>Compliance Checklist</h2>
+
