@@ -15,7 +15,6 @@ Subsequently, I conducted an internal audit to assess controls and verify compli
 
 <h2>Resources Used</h2>
 
-- <b>Botium Toys: Scope, goals, and risk assessment report<b>
+- <b>Botium Toys: Scope, goals, and risk assessment report<b> 
 
-<h2>Scope, goals, and risk assessment report</h2>
 
