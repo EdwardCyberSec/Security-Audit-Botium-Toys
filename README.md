@@ -18,7 +18,4 @@ Subsequently, I conducted an internal audit to assess controls and verify compli
 - <b>Botium Toys: Scope, goals, and risk assessment report<b>
 
 <h2>Scope, goals, and risk assessment report</h2>
-<p align="center">
-<img src="https://imgur.com/U2FInIw" width="80%" alt="Administrative Controls 1"/>
-<p/>
 
